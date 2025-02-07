@@ -1,1 +1,0 @@
-select * from Exercici7.Empleat;

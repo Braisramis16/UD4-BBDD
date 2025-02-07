@@ -1,1 +1,0 @@
-SELECT * FROM Exercici5.Empleat;
