@@ -1,0 +1,1 @@
+Select * From Exercici6.Passatgers;
