@@ -1,0 +1,1 @@
+SELECT * FROM `Exercici 2.b`.Projeccio;
